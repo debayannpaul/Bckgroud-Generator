@@ -1,2 +1,2 @@
-# Bckgroud-Generator
+# Background Gen
 my new
